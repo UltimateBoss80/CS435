@@ -10,6 +10,7 @@ using namespace std;
 int main()
 {
     string sentence = "If you said a sentence backwords does that mean you said it back words";
+    int m; //ignore this, testing git
     vector<string>words;
     stringstream ss(sentence);
     string word;
