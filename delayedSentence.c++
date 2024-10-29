@@ -14,6 +14,7 @@ using std::this_thread::sleep_for;
 int main()
 {
     string sentence = "In life you have to learn to think about the next step When you do so you begin to see the cosmos";
+    int bro;
     vector<string>words;
     stringstream ss(sentence); // Used for breaking up words.
     string word;
